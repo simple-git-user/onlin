@@ -25,3 +25,6 @@ netstat -tanp
 
 #linux link troubleshoot : http://linuxtroubleshoot.blogspot.in/
 # concept single user mode : http://en.wikipedia.org/wiki/Single_user_mode
+
+# "\.\." matches two dots
+# ?: regex not to match two dots
