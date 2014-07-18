@@ -1,0 +1,39 @@
+
+  a {color:#f39e4e; text-decoration:none} 
+  a:hover {color:#03557a}
+  a.blue {color:#03557a}
+  h2, h3 {color:#03557a;font-family:'Trebuchet MS';font-size:21px;margin: 10px 0;}
+  h3 {font-size:19px;margin-top: 40px;}
+  /*ul {list-style-type:disc;list-style-position: inside;color:#d56501}
+  ul a {color:#d56501}
+  ul li {font-size:16px;font-family:'Trebuchet MS';padding: 5px 0;}
+  */
+  p {font-family:'Trebuchet MS'; line-height:18px;margin-top:10px}
+  .hor-kolam-short {background:url('images/hor-kolam-short.jpg') no-repeat;width:220px;margin:20px auto;clear:both}
+  .hor-kolam-long {background:url('images/hor-kolam-long.png') no-repeat;width:360px;margin:30px auto;clear:both}
+  .ver-kolam {background:url('images/ver-kolam-long.gif') no-repeat top right;}
+  
+/* social media buttons formatting */
+#social-followus {
+    background: none repeat scroll 0 0 #32535C;
+    color: white;
+    font-family: arial;
+    font-size: 26px;
+    font-weight: bold;
+    padding: 7px;
+    width: 280px;
+    margin: 20px 0;
+    line-height: 45px;
+	box-shadow:0 4px 5px #777;
+}
+  
+#social-fblikebox {
+    background: none repeat scroll 0 0 #FAF3EC;
+    margin-top: 5px;
+    width: 280px;
+}
+  
+#social-followus img {
+    float: right;
+    margin: 0 5px 10px;
+}

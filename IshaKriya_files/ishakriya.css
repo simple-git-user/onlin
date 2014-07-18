@@ -1,0 +1,90 @@
+
+/*Isha Kriya header*/
+/* rsform formatting on isha kriya homepage */
+#centercontent>div.rsform {position:relative;left:522px;top:-112px;z-index:99;margin-bottom:-275px}
+/* menu and language selector */
+#ishakriya-headbar {width:995px;height:40px;background-color:#3e6373;}
+
+#ishakriya-menu {text-align:center}
+#ishakriya-menu ul {padding:15px 0 0 0}
+#ishakriya-menu ul  li{display:inline;padding:0 10px;border-right:1px solid #E69625}
+#ishakriya-menu ul  li:last-child{border-right:none;}
+#ishakriya-menu a:hover,#ishakriya-menu #current a {color:#E69625}
+#ishakriya-menu a{font-family:'Trebuchet MS',Arial;font-size:18px;font-weight:bold;font-style:normal;text-decoration:none;color:#FFFFFF;}
+
+#jflanguageselection label, #jflanguageselection img {display:none}
+#jflanguageselection {float:right;margin-right:10px;margin-top:-20px;}  
+
+#HeadQuote {position:absolute;top:-160px;left:260px;width:430px;color:#cdcbd8;font-size:16px;line-height:22px;} 
+#HeadQuote #HQSadhguru{text-align:right;font-style:italic;font-family:'Trebuchet MS';font-weight:bold}
+#HeadQuote #HQQuote {text-align:center;font-family:'Trebuchet MS'} 
+
+.kriya-byline {font-family:'Aclonica';text-align:center;color:#03557A}
+.brown {color:#bb4100}
+.yellow {color:#f7a128}
+.micro-font {font-size:11px;line-height: 14px;}
+.shadow {box-shadow:0 4px 5px #777;}
+
+ul.listing {list-style-position: inside; list-style-type: disc; color:#F39E4E}
+ul.listing > li {padding:5px}
+/* registration form start */
+
+#ishakriya-registration.componentbody .componenthead {    
+    
+    height:30px;
+    padding:20px 0;
+	font-family:Myriad Pro;
+    font-size:18px;    
+    font-style:normal;
+    color:#FFFFFF;
+    line-height:22px;
+    text-align:center     
+}
+#ishakriya-registration.componentbody .componenthead span{font-size:13px;line-height:13px}
+
+#ishakriya-registration.componentbody {
+    background:url(/images/ishakriya/registration-box-bg-v2.jpg) left top no-repeat;
+    width:307px;
+    /* height:275px; */
+    height:307px;
+    margin-top:0px;
+	position:relative;
+	box-shadow:0 4px 5px #777777;
+}
+#ishakriya-registration .rsform-block {margin:15px 0;text-align:center}
+
+#ishakriya-registration .rsform-block-name input, .rsform-block-email input {
+    width: 180px;
+    height: 19px;
+    font-family: 'Arial';
+    font-size: 13px;
+}
+#ishakriya-registration select {
+    width: 185px;
+    height: 23px;
+    font-family: 'Arial';
+    font-size: 13px;
+}
+#ishakriya-registration .rsform-block-signup {margin:20px 0 0 0}
+
+#ishakriya-registration .formField {overflow:visible;}
+
+#ishakriya-registration .formRed {padding-left:42px;margin-top:0px;line-height:5px;text-shadow:2px 2px 5px black}
+
+#ishakriya-registration .formError{line-height:0;vertical-align:-10px}
+
+
+/* registration form end */
+ 
+/* homepage specifics */
+#playButton img{position:absolute;top:-180px;right:270px;z-index:99;box-shadow:0px 0px 25px #f7a128;border-radius:10px} 
+#playButton img:hover {box-shadow:0px 0px 15px #f7a128}
+
+#FreeDVDBanner img{position:absolute;top:-300px;right:0;z-index:90; } 
+
+
+/* Tamil Isha Kriya */
+#Tamil-IshaKriya {font-family: Latha;}
+#HeadQuote-Tamil {position:absolute;top:-160px;left:260px;width:430px;color:#cdcbd8;font-family: Latha;font-size:12px;line-height:22px;} 
+#HQSadhguru-Tamil {text-align:right;font-style:italic;font-family: Latha;font-weight:bold}
+#Tamil-IshaKriya h2, #Tamil-IshaKriya h3 {font-size: 18px;line-height:24px}

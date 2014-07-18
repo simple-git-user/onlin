@@ -1,0 +1,126 @@
+/***** Global Settings *****/
+
+html, body {
+border:0;
+margin:0;
+padding:0;
+}
+body {
+line-height:100%;
+color:#706963;
+font-family:Arial, Helvetica, sans-serif;
+background-color:black;
+}
+* {
+margin:0 0;
+}
+
+/* START */
+a.top-banner1:hover { text-decoration:none !important; }
+.top-banner1 { display:block; position:relative; overflow:hidden; width:995px; height:93px; padding:0; text-align:center; font-family:"Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif; background-image:url('images2/sadhguruvudan-isha-yoga.jpg'); background-repeat:no-repeat;background-position:left top; text-decoration:none; }
+.top-banner1 h2, .top-banner1 h3, .top-banner1 ul { margin:0; padding:0; }
+.top-banner1 span { color:#f7a128; }
+.top-banner1 a.vudan { position:absolute; width:995px; height:93px; z-index:999; left:0; top:0; }
+.top-banner1 .programs span { margin:0 10px; }
+.top-banner1 .programs div { font-size:1.25em; font-variant:small-caps; }
+.top-banner1 .programs { float:left; width:500px; margin:10px 0 0 110px; }
+.top-banner1 .benefits { float:right; width:200px; margin:6px 180px 0 0; font-size:1em; font-weight:bold; color:#fff; }
+.top-banner1 .benefits ul { color:#d58761; font-size:.95em; margin-bottom:3px; font-weight:normal; text-shadow: 0 0 0.8em #9b6a50; }
+.top-banner1 li { list-style-type:none; line-height:1.3em; }
+
+.top-banner1 .programs { color:#fff; }
+.top-banner1 .programs h2 { color:#f3e1bd; font-size:1.6em; font-weight:normal; }
+.top-banner1 .programs h3 { color:#e3901c; font-size:1.4em; font-weight:normal; margin:8px 0 10px; }
+.top-banner1 .programs h3 em { color:#d2b891; font-size:.95em; font-style:normal; }
+
+
+div#wrap small { font-size: .65em;}
+div.menu-sub small.parentmenu { font-size: 18px; line-height:1.4em; }
+
+div#lang
+{
+ width:120px; 
+ font-size:10px; 
+ position:absolute;
+ left:0; 
+}
+div#lang a
+{
+ color:orange;
+ text-decoration:none;
+}
+div#lang a:hover
+{
+text-decoration:underline;
+}
+div#lang sup
+{
+ color: #d37366;
+}
+
+div#logstatus
+{
+ width:55px; 
+ height: 19px;
+ padding-top: 3px;
+ position: absolute;
+ /*left: 910px;*/
+ background:url(images/bluetab.gif) repeat-x;
+}
+div#logstatus a
+{
+ text-decoration:none;
+ font-family:'Trebuchet MS', Arial; 
+ font-size:12px; 
+ color:#fff; 
+}
+div#logstatus a:hover
+{
+text-decoration:none;
+}
+div#donate
+{
+ width: 60px; 
+ height: 18px;
+ padding-top: 5px;
+ position: absolute;
+ /*left: 843px;*/
+ background:url(images/logintab.gif) repeat-x;
+}
+div#donate a
+{
+ text-decoration:none;
+ font-family:'Trebuchet MS', Arial; 
+ font-size:12px; 
+ color:#fff; 
+}
+div#donate a:hover
+{
+text-decoration:none;
+}
+/* END */
+
+div#chasetop
+{
+color:#4a4a4a;
+}
+
+div#chasetop p
+{
+padding-bottom:15px;
+}
+
+div#chasetop ul
+{
+list-style-type:disc;
+font-size:18px;
+padding-top:5px;
+}
+div#chasetop ul li
+{
+padding-bottom:7px;
+}
+div#chasetop ul li span
+{
+font-size:14px;
+}
