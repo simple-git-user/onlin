@@ -28,3 +28,11 @@ netstat -tanp
 
 # "\.\." matches two dots
 # ?: regex not to match two dots
+
+#create new virtual env for python dev
+mkvirtualenv --system-site-packages new_virtual_env_name
+
+#update pip with pip
+pip install -U pip
+#update setuptools
+pip install -U setuptools
